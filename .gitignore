@@ -130,7 +130,6 @@ dist
 .pnp.*
  
  # sql schema
- schema.sql
-
+schema.sql
 *.sql
 
